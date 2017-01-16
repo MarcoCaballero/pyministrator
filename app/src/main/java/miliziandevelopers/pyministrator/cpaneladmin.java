@@ -14,7 +14,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class cpaneladmin extends AppCompatActivity
-    //Si ves esto es que estamos connected
         implements NavigationView.OnNavigationItemSelectedListener {
 
     @Override
